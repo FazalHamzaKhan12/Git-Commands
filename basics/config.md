@@ -11,7 +11,7 @@ Sets your identity and preferences for Git on your machine.
 git config --global user.name "Your Name"
 ```
 
-## Example:
+### Example:
 
 ```bash
 git config --global user.name "Fazal Hamza Khan"
@@ -23,7 +23,7 @@ git config --global user.name "Fazal Hamza Khan"
 git config --global user.email "you@example.com"
 ```
 
-## Example:
+### Example:
 
 ```bash
 git config --global user.name "theunknown.pak@gmail.com"
